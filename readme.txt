@@ -1,5 +1,5 @@
 === Audienceful Newsletter Form ===
-Contributors: your-wporg-username
+Contributors: Zain
 Tags: newsletter, ajax, subscription, form, audienceful
 Requires at least: 5.0
 Tested up to: 6.6
@@ -55,10 +55,7 @@ Yes. A honeypot field is planned for a future release to block most bots. For no
 = Can I customize the form design? =  
 Yes. The plugin ships with basic CSS, which you can override via your theme or child theme.
 
-== Screenshots ==
 
-1. The simple email signup form on a landing page.
-2. Plugin settings page with API key and message customization.
 
 == Changelog ==
 
